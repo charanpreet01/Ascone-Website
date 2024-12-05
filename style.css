@@ -394,6 +394,10 @@ nav .menu .menu-list:hover {
 }
 
 @media (max-width: 860px) {
+    .hero-content .left-side h2{
+        font-size: 1.5rem;
+    }
+    
     #hero-section {
         height: 85vh;
     }
